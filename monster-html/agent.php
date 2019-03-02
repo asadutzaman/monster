@@ -6,21 +6,24 @@
 </head>
 <style media="screen">
     .card{
-        margin-bottom: 20px;
+        margin-bottom: 2px;
     }
     .agent-footer {
-    position: fixed;
-    bottom: 0;
-    text-align: center;
-    background-color: 	#A9A9A9;
-    width: 100%;
-    height: 50px;
-}
+        position: fixed;
+        bottom: 0;
+        text-align: center;
+        background-color: 	#A9A9A9;
+        width: 100%;
+        height: 50px;
+    }
 </style>
+
 <body class="fix-header card-no-border" style="font-size: 11px; background-color:#F0F8FF;">
     <?php include 'partials/header.php'; ?>
     <?php //include 'partials/nav.php'; ?>
     <!-- <div class="page-wrapper"> -->
+
+
         <div class="container-fluid" style="font-weight: bold;">
             <div class="row page-titles" style="height:40px;">
                 <div class="col-md-6 col-8 align-self-center">
@@ -136,6 +139,12 @@
                                 <div class="col-md-3">
                                     test
                                 </div>
+                                <div class="col-md-3">
+                                    <label >Recycle Date:</label>
+                                </div>
+                                <div class="col-md-3">
+                                    test
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -199,34 +208,34 @@
                                 <div class="col-md-12">
                                     <h5><u>Customer Information</u></h5>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-4">
                                     <label >Name:</label>
                                 </div>
-                                <div class="col-md-9">
+                                <div class="col-md-8">
                                     <input type="text" class="form-control form-control-sm" id="usr">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-4">
                                     <label >City:</label>
                                 </div>
-                                <div class="col-md-9">
+                                <div class="col-md-8">
                                     <input type="text" class="form-control form-control-sm" id="usr">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-4">
                                     <label >Email:</label>
                                 </div>
-                                <div class="col-md-9">
+                                <div class="col-md-8">
                                     <input type="text" class="form-control form-control-sm" id="usr">
                                 </div>
-                                <div class="col-md-5">
+                                <div class="col-md-4">
                                     <label >Alt. Contact No.</label>
                                 </div>
-                                <div class="col-md-7">
+                                <div class="col-md-8">
                                     <input type="text" class="form-control form-control-sm" id="usr">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-4">
                                     <label >Address:</label>
                                 </div>
-                                <div class="col-md-9">
+                                <div class="col-md-8">
                                     <textarea type="text" class="form-control" id="usr"></textarea>
                                 </div>
                                 <br>
@@ -268,10 +277,10 @@
                                 <div class="col-md-6">
                                     <label >Customer Feedback :</label>
                                 </div>
-                                <div class="col-md-11">
+                                <div class="col-md-12">
                                     <textarea type="text" class="form-control" id="usr"></textarea>
                                 </div>
-                                <div class="col-md-11">
+                                <div class="col-md-12">
                                     <button type="button" class="btn btn-success float-right">Submit</button>
                                 </div>
                             </div>

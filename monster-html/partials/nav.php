@@ -3,30 +3,21 @@
         <nav class="sidebar-nav">
             <ul id="sidebarnav">
                 <li>
-                    <a href="index.html" class="waves-effect"><i class="fa fa-clock-o m-r-10" aria-hidden="true"></i>Dashboard</a>
+                    <a href="index.php" class="waves-effect"><i class="fa fa-clock-o m-r-10" aria-hidden="true"></i>Dashboard</a>
                 </li>
                 <li>
-                    <a href="pages-profile.html" class="waves-effect"><i class="fa fa-user m-r-10" aria-hidden="true"></i>Profile</a>
+                    <a href="user_creation.php" class="waves-effect"><i class="fa fa-user m-r-10" aria-hidden="true"></i>User Creation</a>
                 </li>
                 <li>
-                    <a href="table-basic.html" class="waves-effect"><i class="fa fa-table m-r-10" aria-hidden="true"></i>Basic Table</a>
+                    <a href="data_insertion.php" class="waves-effect"><i class="fa fa-table m-r-10" aria-hidden="true"></i>Data Insertion</a>
                 </li>
                 <li>
-                    <a href="icon-fontawesome.html" class="waves-effect"><i class="fa fa-font m-r-10" aria-hidden="true"></i>Icons</a>
+                    <a href="view_data.php" class="waves-effect"><i class="fa fa-font m-r-10" aria-hidden="true"></i>View data</a>
                 </li>
                 <li>
-                    <a href="map-google.html" class="waves-effect"><i class="fa fa-globe m-r-10" aria-hidden="true"></i>Google Map</a>
-                </li>
-                <li>
-                    <a href="pages-blank.html" class="waves-effect"><i class="fa fa-columns m-r-10" aria-hidden="true"></i>Blank Page</a>
-                </li>
-                <li>
-                    <a href="pages-error-404.html" class="waves-effect"><i class="fa fa-info-circle m-r-10" aria-hidden="true"></i>Error 404</a>
+                    <a href="report.php" class="waves-effect"><i class="fa fa-columns m-r-10" aria-hidden="true"></i>Report</a>
                 </li>
             </ul>
-            <div class="text-center m-t-30">
-                <a href="https://wrappixel.com/templates/monsteradmin/" class="btn btn-danger"> Upgrade to Pro</a>
-            </div>
         </nav>
     </div>
 </aside>
