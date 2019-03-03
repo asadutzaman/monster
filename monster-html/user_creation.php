@@ -44,7 +44,7 @@
                                             <td>Prohaska</td>
                                             <td>@Genelia</td>
                                             <td>
-                                                <i class="fa fa-edit m-r-10 btn text-success"  aria-hidden="true" data-toggle="modal" data-target="#exampleModalCenter"></i>
+                                                <i class="fa fa-edit m-r-10 btn text-success" aria-hidden="true" data-toggle="modal" data-target="#exampleModalCenter"></i>
                                                 <i class="fa fa-trash m-r-10 text-danger" aria-hidden="true"></i>
                                             </td>
                                         </tr>
