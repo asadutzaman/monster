@@ -18,7 +18,7 @@
                     </ol>
                 </div>
                 <div class="col-md-6 col-4 align-self-center">
-                    <a class="btn pull-right hidden-sm-down btn-success"> Upgrade to Pro</a>
+                    <a class="btn pull-right hidden-sm-down btn-success">Upgrade to Pro</a>
                 </div>
             </div>
             <div class="row">

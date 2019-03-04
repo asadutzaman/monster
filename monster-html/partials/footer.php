@@ -12,5 +12,6 @@
 <script src="../assets/plugins/sticky-kit-master/dist/sticky-kit.min.js"></script>
 <script src="js/custom.min.js"></script>
 <script src="../assets/plugins/styleswitcher/jQuery.style.switcher.js"></script>
+<script src="https://nightly.datatables.net/js/jquery.dataTables.js"></script>
 </body>
 </html>

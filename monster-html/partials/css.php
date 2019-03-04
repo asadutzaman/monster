@@ -7,3 +7,6 @@
 <link href="../assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/colors/blue.css" id="theme" rel="stylesheet">
+<!-- datatable -->
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<link href="https://nightly.datatables.net/css/jquery.dataTables.css" rel="stylesheet" type="text/css" />

@@ -10,11 +10,11 @@
             </div>
             <div class="navbar-collapse">
                 <ul class="navbar-nav mr-auto mt-md-0 ">
-                    
+
                 </ul>
                 <ul class="navbar-nav my-lg-0">
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle text-muted waves-effect waves-dark" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="../assets/images/users/1.jpg" alt="user" class="profile-pic m-r-5" />Markarn Doe</a>
+                        <a class="nav-link dropdown-toggle text-muted waves-effect waves-dark" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Markarn Doe</a>
                     </li>
                 </ul>
             </div>
